@@ -1,0 +1,1 @@
+PhoneGap Plugin for Android to get device call logs
